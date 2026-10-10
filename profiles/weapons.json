@@ -1,0 +1,227 @@
+[
+  {
+    "id": "axe_c",
+    "label": "Axe C",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Tools/BP_Weapon_Tool_Axe_C",
+    "native_mesh": "halflight_guest_axe.msh"
+  },
+  {
+    "id": "sword_g_as60_oh12",
+    "label": "Arming sword",
+    "family": "Swords",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "sword_g_as60_oh12",
+    "native_mesh": "halflight_guest_sword.msh"
+  },
+  {
+    "id": "longsword",
+    "label": "Longsword",
+    "family": "Swords",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "longsword",
+    "native_mesh": "halflight_guest_longsword.msh"
+  },
+  {
+    "id": "messer",
+    "label": "Messer",
+    "family": "Swords",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "messer",
+    "native_mesh": "halflight_guest_messer.msh"
+  },
+  {
+    "id": "rondel_dagger",
+    "label": "Rondel dagger",
+    "family": "Daggers and short blades",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_DaggerRondel",
+    "native_mesh": "halflight_guest_rondel_dagger.msh"
+  },
+  {
+    "id": "bauernwehr",
+    "label": "Bauernwehr",
+    "family": "Daggers and short blades",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/BP_Weapon_Reforged_Baurnwehr_A",
+    "native_mesh": "halflight_guest_bauernwehr.msh"
+  },
+  {
+    "id": "tool_knife",
+    "label": "Tool knife",
+    "family": "Daggers and short blades",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Tools/BP_Weapon_Tool_Knife_A",
+    "native_mesh": "halflight_guest_tool_knife.msh"
+  },
+  {
+    "id": "hand_axe",
+    "label": "Hand axe",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Axe",
+    "native_mesh": "halflight_guest_hand_axe.msh"
+  },
+  {
+    "id": "two_hand_axe",
+    "label": "Two-handed axe",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Axe2H",
+    "native_mesh": "halflight_guest_two_hand_axe.msh"
+  },
+  {
+    "id": "hulbat",
+    "label": "Hulbat",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Axe_Hulbat_A_001",
+    "native_mesh": "halflight_guest_hulbat.msh"
+  },
+  {
+    "id": "hafted_short",
+    "label": "Short hafted weapon",
+    "family": "Hafted weapons",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "hafted_short",
+    "native_mesh": "halflight_guest_hafted_short.msh"
+  },
+  {
+    "id": "hafted_long",
+    "label": "Long hafted weapon",
+    "family": "Hafted weapons",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "hafted_long",
+    "native_mesh": "halflight_guest_hafted_long.msh"
+  },
+  {
+    "id": "mace_short",
+    "label": "Short mace",
+    "family": "Maces",
+    "damage_type": 18,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "mace_short",
+    "native_mesh": "halflight_guest_mace_short.msh"
+  },
+  {
+    "id": "mace_long",
+    "label": "Long mace",
+    "family": "Maces",
+    "damage_type": 18,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "mace_long",
+    "native_mesh": "halflight_guest_mace_long.msh"
+  },
+  {
+    "id": "polearm",
+    "label": "Forged polearm",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "polearm",
+    "native_mesh": "halflight_guest_polearm.msh"
+  },
+  {
+    "id": "poleaxe",
+    "label": "Poleaxe",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/ModularWeaponBP",
+    "recipe": "poleaxe",
+    "native_mesh": "halflight_guest_poleaxe.msh"
+  },
+  {
+    "id": "spear",
+    "label": "Boar spear",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Spear_B",
+    "native_mesh": "halflight_guest_spear.msh"
+  },
+  {
+    "id": "halberd",
+    "label": "Halberd",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Halberd_B",
+    "native_mesh": "halflight_guest_halberd.msh"
+  },
+  {
+    "id": "billhook",
+    "label": "Billhook",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Billhook_A",
+    "native_mesh": "halflight_guest_billhook.msh"
+  },
+  {
+    "id": "staff",
+    "label": "Staff",
+    "family": "Staves",
+    "damage_type": 18,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Staff",
+    "native_mesh": "halflight_guest_staff.msh"
+  },
+  {
+    "id": "war_staff",
+    "label": "War staff",
+    "family": "Staves",
+    "damage_type": 18,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_WarStaff_A",
+    "native_mesh": "halflight_guest_war_staff.msh"
+  },
+  {
+    "id": "tool_axe_a",
+    "label": "Woodcutting axe",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Tools/BP_Weapon_Tool_Axe_A",
+    "native_mesh": "halflight_guest_tool_axe_a.msh"
+  },
+  {
+    "id": "tool_axe_b",
+    "label": "Heavy tool axe",
+    "family": "Axes",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Tools/BP_Weapon_Tool_Axe_B",
+    "native_mesh": "halflight_guest_tool_axe_b.msh"
+  },
+  {
+    "id": "spear_a",
+    "label": "Short spear",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Spear_A",
+    "native_mesh": "halflight_guest_spear_a.msh"
+  },
+  {
+    "id": "spear_c",
+    "label": "Long spear",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Spear_C",
+    "native_mesh": "halflight_guest_spear_c.msh"
+  },
+  {
+    "id": "billhook_b",
+    "label": "Long billhook",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Billhook_B",
+    "native_mesh": "halflight_guest_billhook_b.msh"
+  },
+  {
+    "id": "halberd_d",
+    "label": "Spiked halberd",
+    "family": "Polearms",
+    "damage_type": 1,
+    "source_class_path": "/Game/Assets/Weapons/Blueprints/Built_Weapons/Reforged/ModularWeaponBP_Halberd_D",
+    "native_mesh": "halflight_guest_halberd_d.msh"
+  }
+]

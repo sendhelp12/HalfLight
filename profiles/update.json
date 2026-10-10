@@ -1,0 +1,26 @@
+{
+  "installed_builds": {
+    "gamedll_ph_x64_rwdi.dll": {
+      "module_sha256": "b417213b3b1e70b9bb589b88d388bb99dd213b9082d44ef38f4021146f6ee6c4",
+      "secondary_base_offset_hex": "0x30",
+      "secondary_vtable_rva_hex": "0x241eba8",
+      "callbacks": [
+        {
+          "slot_hex": "0x3a8",
+          "thunk_rva_hex": "0x1cc85c2",
+          "import": "?OnParallelPreUpdate@IGSObject@@UEAAXXZ"
+        },
+        {
+          "slot_hex": "0x3b0",
+          "thunk_rva_hex": "0x1cc85c8",
+          "import": "?OnPostUpdate@IGSObject@@UEAAXXZ"
+        },
+        {
+          "slot_hex": "0x3b8",
+          "thunk_rva_hex": "0x1cc85ce",
+          "import": "?OnPostUpdateEditor@IGSObject@@UEAAXXZ"
+        }
+      ]
+    }
+  }
+}

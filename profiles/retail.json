@@ -1,0 +1,32 @@
+{
+  "modules": {
+    "engine_x64_rwdi.dll": {
+      "sha256": "a06519ee1fd79de1d665215f38e6b89f2b074bf9745912c64a6f0684617adb63",
+      "timestamp": 1788948393,
+      "image_size": 45404160
+    },
+    "gamedll_ph_x64_rwdi.dll": {
+      "sha256": "b417213b3b1e70b9bb589b88d388bb99dd213b9082d44ef38f4021146f6ee6c4",
+      "timestamp": 1787752525,
+      "image_size": 62074880
+    },
+    "filesystem_x64_rwdi.dll": {
+      "sha256": "2b8236856f8314392ed1f865c7c78e733eca69be977d905073a91a455ca4684f",
+      "timestamp": 1787754042,
+      "image_size": 872448
+    }
+  },
+  "games": {
+    "HalfSwordUE5-Win64-Shipping.exe": {
+      "sha256": "367dfccf1aaca3bbf6824c9bb616f2f31bc30e7ac70c5fa8657e212dbb2c2e03",
+      "pe_timestamp": 2398753321,
+      "image_size": 158408704
+    },
+    "DyingLightGame_x64_rwdi.exe": {
+      "sha256": "8a3c05f4f953d052a13df1b801f9e992a0116c93989ef8ad4399372453ac7d29",
+      "pe_timestamp": 1787752527,
+      "image_size": 1974272
+    }
+  },
+  "devtools_version": "DevTools_DyingLight2_20260825_094519_6422187"
+}
